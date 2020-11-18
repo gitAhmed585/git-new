@@ -1,0 +1,2 @@
+# git-new
+life good
